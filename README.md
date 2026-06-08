@@ -1,2 +1,2 @@
-# softwarepraktikum_golfcardgame
-6-Card Golf card game built in Kotlin using the BoardGameWork (BGW) framework — features a 3-layer architecture (entity/service/GUI), hotseat multiplayer for 2–4 players, and full test coverage.
+Implemented as part of the Software Praktikum (SoPra) course at TU Dortmund. The game follows the rules of 6-Card Golf: each player manages a 2×3 grid of cards, aiming for the lowest score by swapping, flipping, and discarding strategically.
+Built with a strict 3-layer architecture — entity layer for data, service layer for all game logic, and a BGW-powered GUI layer for rendering. Supports 2–4 players in hotseat mode with a full reveal round, end-game scoring, row-clearing mechanics, and a test mode for reproducible card stacks.
